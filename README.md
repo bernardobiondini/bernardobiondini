@@ -28,7 +28,7 @@
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
-  <a href=""https://www.linkedin.com/in/bernardo-cavanellas-a92656217/""><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/>
+  <a href=""https://www.linkedin.com/in/bernardo-cavanellas-a92656217/"><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/>
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white href="be.cavanellas@gmail.com"/>
   <a href="https://www.instagram.com/be_cb/"> <img src="https://img.shields.io/badge/be_cb-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>   </a>
 </p>
