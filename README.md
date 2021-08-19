@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋</h1>
 <h2>Podem me chamar de Be</h2>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Linguagens:</h3>
 <p align="left">
   <img src= https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white />
   <img src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E. />
