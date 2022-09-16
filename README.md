@@ -1,6 +1,11 @@
 <h1 align="center">Hello World 👋</h1>
 <h2>Podem me chamar de Be</h2>
+<!-- <section>
+  <h3>Podem me chamar de Be</h3>
+  <p>Ele/dele</p>
+</section> -->
 
+<h2>Linguagens e Tecnologias</h2>
 <h3 align="left">Frontend:</h3>
 <p align="left">
   <img alt="HTML5" src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white />
@@ -30,11 +35,6 @@
   <img src=https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white />
 </p>
 
-<h3 align="left">Tecnologias:</h3>
-<p align="left">
-  <img src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white=for-the-badge&logo=python&logoColor=white />
-  <img src=https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white?style=for-the-badge&logo=github&logoColor=white=for-the-badge&logo=python&logoColor=white />
-</p>
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
