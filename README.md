@@ -1,9 +1,17 @@
 <h1 align="center">Hello World 👋</h1>
-<h2>Podem me chamar de Be</h2>
-<!-- <section>
-  <h3>Podem me chamar de Be</h3>
-  <p>Ele/dele</p>
-</section> -->
+</hr>
+
+<h3>Podem me chamar de Be</h3>
+
+
+- 🔭 Procurando uma oportunidade ...
+
+
+- 🌱 Estudando .NET ...
+
+
+- 😄 Pronomes: ele/dele ...
+
 
 <h2>Linguagens e Tecnologias</h2>
 <h3 align="left">Frontend:</h3>
