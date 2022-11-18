@@ -7,9 +7,6 @@
 - 🔭 Procurando uma oportunidade ...
 
 
-- 🌱 Estudando .NET ...
-
-
 - 😄 Pronomes: ele/dele ...
 
 
@@ -27,14 +24,14 @@
 
 <h3 align="left">Backend:</h3>
 <p align="left">
-  <img alt="C#" src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white?style=for-the-badge&logo=python&logoColor=white />
-  <img alt=".NET" src= https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white />
+  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"  />
 </p>
 
 <h3 align="left">Outras linguagens:</h3>
 <p align="left">
   <img src= https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white />
   <img src= https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white/>
+  <img alt="C#" src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white?style=for-the-badge&logo=python&logoColor=white />
   <img src= https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java%2B%2B&logoColor=white/>
 </p>
 
