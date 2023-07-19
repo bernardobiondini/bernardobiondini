@@ -4,10 +4,10 @@
 <h3>Podem me chamar de Be</h3>
 
 
-- 🔭 Procurando uma oportunidade ...
+-  Engenheiro de Software Junior - IEBT Innovation ...
 
 
-- 😄 Pronomes: ele/dele ...
+-  Pronomes: ele/dele ...
 
 
 <h2>Linguagens e Tecnologias</h2>
@@ -25,6 +25,7 @@
 <h3 align="left">Backend:</h3>
 <p align="left">
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"  />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  />
 </p>
 
 <h3 align="left">Outras linguagens:</h3>
@@ -39,7 +40,6 @@
 <p align="left">
   <img src=https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white />
 </p>
-
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
